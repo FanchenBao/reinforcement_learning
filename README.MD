@@ -20,6 +20,6 @@ The Actor-Critic architecture is implemented to solve a grid world problem, the 
 # Playground
 Try the notebook for free on Binder.
 
-* Project 1: 
-* Project 2:
-* Project 3:
+* Project 1: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FanchenBao/reinforcement_learning/HEAD?filepath=project_1%2Fp1_Bao.ipynb)
+* Project 2: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FanchenBao/reinforcement_learning/HEAD?filepath=project_2%2Fp2_Bao.ipynb)
+* Project 3: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FanchenBao/reinforcement_learning/HEAD?filepath=project_3%2Fp3_Bao.ipynb)
