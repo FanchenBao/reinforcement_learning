@@ -17,6 +17,8 @@ This is a very ambitious endeavor to code all tabular methods covered in the lec
 ## Project 3: Actor-Critic Architecture
 The Actor-Critic architecture is implemented to solve a grid world problem, the same one as in Project 2. However, unlike the tabular method, it is based on training neural network models to simulate the policy and state value function. Implementation borrows from the documentation on [Keras](https://keras.io/examples/rl/actor_critic_cartpole/) and [TensorFlow](https://www.tensorflow.org/tutorials/reinforcement_learning/actor_critic), but with my own twist.
 
+There is also a presentation on the Actor-Critic Architecture for a quick overview of the project result.
+
 # Playground
 Try the notebook on Binder. Note that it takes quite a while for Binder to set up the environment for the first time. Please be patient. Subsequent runs are much faster.
 
